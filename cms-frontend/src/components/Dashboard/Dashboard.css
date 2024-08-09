@@ -1,0 +1,43 @@
+.dashboard {
+    padding: 2rem;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: #343a40;
+    color: white;
+    align-items: center;
+  }
+  
+  .navbar h1 {
+    margin: 0;
+  }
+  
+  .navbar nav {
+    display: flex;
+  }
+  
+  .navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 0 1rem;
+    font-weight: bold;
+  }
+  
+  .navbar a:hover {
+    text-decoration: underline;
+  }
+  
+  main {
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    margin-top: 0;
+  }
+  
